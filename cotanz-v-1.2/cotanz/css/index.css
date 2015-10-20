@@ -66,6 +66,20 @@ body {
     background-attachment: fixed;
 }
 
+#learnmore  {
+    text-decoration: none;
+    color: white;
+    color: #35EEA2;
+}
+
+#learnmore2 {
+    text-decoration: none;
+    text-shadow: 0px;
+    font-size: 15px;
+    margin-top: 50px;
+    border: 1px solid #35EEA2;
+}
+
 #forthHeader {
     background: rgba(0, 0, 0, 0.8);
     height: 100%;
@@ -93,7 +107,6 @@ body {
     text-align: center;
     font-family: latoHairline;
     line-height: 70px;
-    margin-bottom: 200px;
     font-size: 40px;
 }
 
@@ -170,6 +183,7 @@ body {
     animation-name: bounce;
     -webkit-animation-delay: 2s;
     animation-delay: 2s;
+    margin-top: 200px;
 }
 
 #fifthAbout {
@@ -244,6 +258,7 @@ body {
     letter-spacing: 2.5px;
     color: white;
     font-family: latoBlack;
+    text-shadow: 1px 1px 1px black;
     font-weight: 300;
 }
 
@@ -252,6 +267,7 @@ body {
     margin-bottom: 70px;
     color: white;
     font-size: 20px;
+    text-shadow: 1px 1px 1px black;
 }
 
 #morebutton {
@@ -294,7 +310,6 @@ body {
     text-align: center;
     margin-bottom: 20px;
     color: #19639c;
-    font-family: latoBlack;
 }
 
 #teamSubline {

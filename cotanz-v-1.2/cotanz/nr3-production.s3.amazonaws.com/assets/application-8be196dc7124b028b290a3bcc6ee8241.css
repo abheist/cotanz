@@ -1246,8 +1246,6 @@ select {
     background: transparent;
     color: #ffffff;
     display: block;
-    font-family: 700 1rem "nimbus-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-    font-size: 48px;
     padding: 0.9375rem
 }
 
@@ -1913,7 +1911,7 @@ section.main header h3 {
 }
 
 section.main header h2 {
-    font: italic 300 1rem "adobe-text-pro", Georgia, Cambria, "Times New Roman", Times, serif;
+   
     font-size: 2.625rem;
     line-height: 3.25rem;
     margin: 1.25rem 0 0
